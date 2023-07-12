@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class SchoolController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Display a listing of the resource .
      */
     public function index()
     {
